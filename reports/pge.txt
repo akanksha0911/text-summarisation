@@ -1,0 +1,52 @@
+PG&E stated it scheduled the blackouts in response to forecasts for high winds amid dry conditions. The aim is to reduce the risk of wildfires. Nearly 800 thousand customers were scheduled to be affected by the shutoffs which were expected to last through at least midday tomorrow.
+
+Extractive Summary
+ The aim is to reduce the risk of wildfires.
+ PG&E stated it scheduled the blackouts in response to forecasts for high winds amid dry conditions
+
+Abstractive Summaries
+google/pegasus-aeslc
+PG&E Outages
+google/pegasus-arxiv
+blackouts were scheduled for about 800 thousand customers in the state of michigan to reduce the risk of wildfires caused by high winds and high temperatures. <n> the shutoffs were expected to last for about one day. <n> the state of michigan is one of the coldest states in the usa, with temperatures in the tev range. <n> the state of michigan has one of the highest percolation rates of any state in the usa. <n> the state of michigan has one of the highest percolation rates of any state in the usa. <n> the state of michigan has one of the highest percolation rates of any state in the usa. <n> the state of michigan has one of the highest percolation rates of any state in the usa. <n> the state of michigan has one of the highest percolation rates of any state in the usa. <n> the state of michigan has one of the highest percolation rates of any state in the usa. <n> the state of michigan has one of the highest percolation rates of any state in the usa. <n> the state of michigan has one of the highest per
+google/pegasus-big_patent
+A&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;
+google/pegasus-billsum
+PG&E stated it scheduled the blackouts in response to forecasts for high winds amid dry conditions. The aim is to reduce the risk of wildfires. Nearly 800 thousand customers were scheduled to be affected by the shutoffs which were expected to last through at least tomorrow.
+google/pegasus-cnn_dailymail
+PG&E scheduled the blackouts in response to forecasts for high winds amid dry conditions.<n>The aim is to reduce the risk of wildfires.
+google/pegasus-gigaword
+calif.'s UNK to cut power to #,### customers due to high winds ; #,### to be affected ; 
+google/pegasus-large
+Nearly 800 thousand customers were scheduled to be affected by the shutoffs which were expected to last through at least midday tomorrow.
+google/pegasus-multi_news
+– California's biggest utility has turned off the lights for hundreds of thousands of customers in an effort to prevent wildfires. Pacific Gas & Electric turned off the lights in California, Oregon, and Washington state starting at midnight for customers in those states, the Los Angeles Times reports. The utility says the shutoffs were necessary because of high winds in the region. The National Weather Service has issued a high-wind advisory for northern and central California through Friday.
+google/pegasus-newsroom
+PG&E stated it scheduled the blackouts in response to forecasts for high winds amid dry conditions. The aim is to reduce the risk of wildfires. Nearly 800 thousand customers were scheduled to be affected by the shutoffs which were expected to last through at least midday tomorrow.
+google/pegasus-pubmed
+high temperatures and low relative humidity in the western united states over the last few days have resulted in widespread wildfire risk. <n> utility companies in several states have been activated to respond to power shutoffs caused by drought. in illinois, <n> the state public utility commission has declared a state of emergency for all new power shutoffs caused by drought. in the united states, <n> the national institute of environmental health sciences ( niehs ) has declared a state of emergency for all new power shutoffs caused by drought. in the united states <n>, the utility commission has also declared a state of emergency for all new power shutoffs caused by drought. <n> the niehs has declared a state of emergency for all new power shutoffs caused by drought in illinois, missouri, kentucky, pennsylvania, and iowa. <n> the niehs has also declared a state of emergency for all new power shutoffs caused by drought in minnesota. in the united states, <n> the national institute of environmental health sciences ( niehs ) has declared a state of emergency for all new power shutoffs caused by drought. <n> the 
+google/pegasus-reddit_tifu
+PG&E stated it scheduled the blackouts in response to forecasts for high winds amid dry conditions. the aim is to reduce the risk of wildfires. nearly 800 thousand customers were scheduled to be affected by the shutoffs which were expected to last through at least midday tomorrow.
+google/pegasus-wikihow
+Due to high winds in the San Francisco area, Pacific Gas and Electric Company (PG&E) has turned off the electricity for most of its customers.
+google/pegasus-xsum
+California's largest electricity provider has turned off power to hundreds of thousands of customers.
+
+Score Board
+google/pegasus-aeslc = 0.13793103448275862
+google/pegasus-arxiv = 0.0909090909090909
+google/pegasus-big_patent = 0.0
+google/pegasus-billsum = 0.4657534246575342
+google/pegasus-cnn_dailymail = 0.5882352941176471
+google/pegasus-gigaword = 0.1951219512195122
+google/pegasus-large = 0.12499999999999997
+google/pegasus-multi_news = 0.15384615384615385
+google/pegasus-newsroom = 0.4594594594594595
+google/pegasus-pubmed = 0.0761904761904762
+google/pegasus-reddit_tifu = 0.4594594594594595
+google/pegasus-wikihow = 0.23076923076923078
+google/pegasus-xsum = 0.0975609756097561
+========================================================================================================================
+Best Summary from google/pegasus-cnn_dailymail
+========================================================================================================================
+PG&E scheduled the blackouts in response to forecasts for high winds amid dry conditions.  The aim is to reduce the risk of wildfires.

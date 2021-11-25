@@ -1,0 +1,53 @@
+In an attempt to build an AI-ready workforce, Microsoft announced Intelligent Cloud Hub which has been launched to empower the next generation of students with AI-ready skills. Envisioned as a three-year collaborative program, Intelligent Cloud Hub will support around 100 institutions with AI infrastructure, course content and curriculum, developer support, development tools and give students access to cloud and AI services. As part of the program, the Redmond giant which wants to expand its reach and is planning to build a strong developer ecosystem in India with the program will set up the core AI infrastructure and IoT Hub for the selected campuses. The company will provide AI development tools and Azure AI services such as Microsoft Cognitive Services, Bot Services and Azure Machine Learning.According to Manish Prakash, Country General Manager-PS, Health and Education, Microsoft India, said, "With AI being the defining technology of our time, it is transforming lives and industry and the jobs of tomorrow will require a different skillset. This will require more collaborations and training and working with AI. That’s why it has become more critical than ever for educational institutions to integrate new cloud and AI technologies. The program is an attempt to ramp up the institutional set-up and build capabilities among the educators to educate the workforce of tomorrow." The program aims to build up the cognitive skills and in-depth understanding of developing intelligent cloud connected solutions for applications across industry. Earlier in April this year, the company announced Microsoft Professional Program In AI as a learning track open to the public. The program was developed to provide job ready skills to programmers who wanted to hone their skills in AI and data science with a series of online courses which featured hands-on labs and expert instructors as well. This program also included developer-focused AI school that provided a bunch of assets to help build AI skills.
+
+
+Extractive Summary
+ This program also included developer-focused AI school that provided a bunch of assets to help build AI skills..
+ Envisioned as a three-year collaborative program, Intelligent Cloud Hub will support around 100 institutions with AI infrastructure, course content and curriculum, developer support, development tools and give students access to cloud and AI services
+
+Abstractive Summaries
+google/pegasus-aeslc
+AI Hub, Microsoft India
+google/pegasus-arxiv
+the company announced that it has been open to the public who want to provide job ready skills in developing intelligent cloud connected solutions to this cloud program aims to build up cognitive skills and in-depth cloud solutions to this cloud program aims to provide job ready skills in developing intelligent cloud connected solutions to this cloud program aims to provide job ready skills in developing intelligent cloud connected solutions to this cloud program aims to provide job ready skills in developing intelligent cloud connected solutions to this cloud program aims to provide job ready skills in developing intelligent cloud connected solutions to this cloud program aims to provide job ready skills in developing intelligent cloud connected solutions to this cloud program aims to provide job ready skills in developing intelligent cloud connected solutions to this cloud program aims to provide job ready skills in developing intelligent cloud connected solutions to this cloud program aims to provide job ready skills in developing intelligent cloud connected solutions to this cloud program aims to provide job ready skills in developing intelligent cloud connected solutions to this cloud program aims to provide job ready skills in developing intelligent cloud connected solutions to this cloud program aims to provide job ready skills in developing intelligent cloud connected solutions to this cloud program aims to provide job ready skills in developing intelligent cloud connected solutions to this cloud program aims to provide job ready skills in developing intelligent cloud connected solutions to this cloud program aims to
+google/pegasus-big_patent
+In an attempt to build an XML-ready workforce, Web announced a three-year collaborative program to empower the next generation of students with XML-ready skills.
+google/pegasus-billsum
+In an attempt to build an AI-ready workforce, Microsoft announced Intelligent Hub which has been launched to the next generation of students with AI-ready skills as a three-year collaborative program, Intelligent Hub will support around 100 institutions with AI infrastructure, course content and curriculum developer support, development tools, and give students access to cloud and AI services.
+google/pegasus-cnn_dailymail
+Microsoft Intelligent Cloud Hub will support around 100 institutions.<n>Program will provide AI infrastructure, course content and curriculum.<n>Aims to build up cognitive skills and understand developing AI solutions.
+google/pegasus-gigaword
+ibm launches UNK program to empower next generation of students with skills of UNK UNK program to empower next generation of students with skills of
+google/pegasus-large
+The company will provide AI development tools and Azure AI services such as Microsoft Cognitive Services, Bot Services and Azure Machine Learning.According to Manish Prakash, Country General Manager-PS, Health and Education, Microsoft India, said, "With AI being the defining technology of our time, it is transforming lives and industry and the jobs of tomorrow will require a different skillset.
+google/pegasus-multi_news
+– "With AI being the defining technology of our time, it is transforming lives and industry and the jobs of tomorrow will require a different skillset," Manish Prakash, Country General Manager-PS, Health and Education, Microsoft India, says in a press release. "That's why it has become more critical than ever for educational institutions to integrate new cloud and AI technologies." To that end, Microsoft has announced Intelligent Cloud Hub, a three-year collaborative program that will support around 100 institutions in India with AI infrastructure, course content, and curriculum, developer support, development tools, and give students access to cloud and AI services, the Verge reports. Microsoft will also provide AI development tools and Azure AI services such as Microsoft Cognitive Services, Bot Services, and Azure Machine Learning. The Intelligent Cloud Hub is part of Microsoft's Professional Program in AI, which is open to the public.
+google/pegasus-newsroom
+In an attempt to build an AI-ready workforce, Microsoft announced Intelligent Cloud Hub which has been launched to empower the next generation of students with AI-ready skills. Envisioned as a three-year collaborative program, Intelligent Cloud Hub will support around 100 institutions with AI infrastructure, course content and curriculum, developer support, development tools and give students access to cloud and AI services. As part of the program, the Redmond giant which wants to expand its reach and is planning to build a strong developer ecosystem in India with the program will set up the core AI infrastructure and IoT Hub for the selected campuses. The company will provide AI development tools
+google/pegasus-pubmed
+to build the workforce of the future, there is a need for new generation of educators, especially those who are familiar with emerging technologies. <n> there is an urgent need to develop and train a new generation of educators, especially those who are familiar with cloud, big data, internet of things, virtual reality, etc. <n>, this article focuses on three such programs, which have been launched, which aim to educate educators to build up the workforce of the future, which is needed in the era of cloud, big data, internet of things, virtual reality, etc.
+google/pegasus-reddit_tifu
+Microsoft has launched a three-year collaborative program to empower the next generation of students with AI-ready skills in an attempt to build an AI-ready workforce.
+google/pegasus-wikihow
+Aim to build an AI-ready workforce.<n>Establish Intelligent Cloud Hub at around 100 institutions in India.<n>Open Microsoft Professional Program In AI for the public.
+google/pegasus-xsum
+Microsoft has launched Intelligent Cloud Hub which aims to empower the next generation of students with AI-ready skills.
+
+Score Board
+google/pegasus-aeslc = 0.06896551724137931
+google/pegasus-arxiv = 0.08469055374592833
+google/pegasus-big_patent = 0.19753086419753085
+google/pegasus-billsum = 0.6491228070175439
+google/pegasus-cnn_dailymail = 0.39999999999999997
+google/pegasus-gigaword = 0.12658227848101264
+google/pegasus-large = 0.1391304347826087
+google/pegasus-multi_news = 0.3383084577114428
+google/pegasus-newsroom = 0.46706586826347307
+google/pegasus-pubmed = 0.10738255033557048
+google/pegasus-reddit_tifu = 0.21951219512195122
+google/pegasus-wikihow = 0.24390243902439024
+google/pegasus-xsum = 0.136986301369863
+========================================================================================================================
+Best Summary from google/pegasus-billsum
+========================================================================================================================
+In an attempt to build an AI-ready workforce, Microsoft announced Intelligent Hub which has been launched to the next generation of students with AI-ready skills as a three-year collaborative program, Intelligent Hub will support around 100 institutions with AI infrastructure, course content and curriculum developer support, development tools, and give students access to cloud and AI services.
