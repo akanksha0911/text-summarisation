@@ -112,4 +112,4 @@ if __name__ == '__main__':
     train_dataset, _, _, tokenizer = prepare_data(model_name, train_texts, train_labels)
     trainer = prepare_fine_tuning(model_name, tokenizer, train_dataset)
     trainer.train()
-    trainer.save_model('/Users/akanksha/PycharmProjects/text-summarisation/model')
+    trainer.save_model('//Users/akanksha/PycharmProjects/text-summarisation-final/model')

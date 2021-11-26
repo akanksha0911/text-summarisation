@@ -6,3 +6,4 @@
  sentencepiece
  rouge-score
  scipy
+ datasets
