@@ -23,14 +23,14 @@ def prepare_data(model_name,
     """
     Prepare input data for model fine-tuning
     """
-    tokenizer_test = PegasusTokenizer.from_pretrained(model_name)
+    tokenizer = PegasusTokenizer.from_pretrained(model_name)
 
     prepare_val = False if val_texts is None or val_labels is None else True
     prepare_test = False if test_texts is None or test_labels is None else True
 
     def tokenize_data(texts, labels):
-        encodings = tokenizer_test(texts, truncation=True, padding=True)
-        decodings = tokenizer_test(labels, truncation=True, padding=True)
+        encodings = tokenizer(texts, truncation=True, padding=True)
+        decodings = tokenizer(labels, truncation=True, padding=True)
         dataset_tokenized = PegasusDataset(encodings, decodings)
         return dataset_tokenized
 
