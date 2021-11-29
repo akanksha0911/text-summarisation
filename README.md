@@ -1,3 +1,6 @@
+![Arch](https://user-images.githubusercontent.com/77387431/143853833-f97cb2ed-f92d-4d8e-824d-4d28896f2bbf.png)
+
+
 # Setup
 This codebase is based on python3 (3.8.5). Other python versions should work seamlessly.
 
