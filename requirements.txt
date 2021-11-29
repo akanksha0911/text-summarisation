@@ -1,9 +1,16 @@
- nltk
- numpy
- networkx
- torch
- transformers
- sentencepiece
- rouge-score
- scipy
- datasets
+nltk~=3.6.5
+numpy~=1.21.4
+networkx~=2.6.3
+torch~=1.10.0
+transformers~=4.12.5
+sentencepiece
+rouge-score
+scipy
+datasets~=1.15.1
+flask~=2.0.2
+protobuf
+Werkzeug~=2.0.2
+boto3~=1.20.14
+flask-cors
+jsonify
+requests~=2.26.0

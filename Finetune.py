@@ -56,7 +56,7 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, val_dataset=None, 
     if val_dataset is not None:
         training_args = TrainingArguments(
             output_dir=output_dir,  # output directory
-            num_train_epochs=2000,  # total number of training epochs
+            num_train_epochs=1,  # total number of training epochs
             per_device_train_batch_size=1,  # batch size per device during training, can increase if memory allows
             per_device_eval_batch_size=1,  # batch size for evaluation, can increase if memory allows
             save_steps=500,  # number of updates steps before checkpoint saves
@@ -80,7 +80,7 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, val_dataset=None, 
     else:
         training_args = TrainingArguments(
             output_dir=output_dir,  # output directory
-            num_train_epochs=2000,  # total number of training epochs
+            num_train_epochs=1,  # total number of training epochs
             per_device_train_batch_size=1,  # batch size per device during training, can increase if memory allows
             save_steps=500,  # number of updates steps before checkpoint saves
             save_total_limit=5,  # limit the total amount of checkpoints and deletes the older checkpoints
@@ -88,6 +88,7 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, val_dataset=None, 
             weight_decay=0.01,  # strength of weight decay
             logging_dir='./logs',  # directory for storing logs
             logging_steps=10,
+            push_to_hub=True,
         )
 
         trainer = Trainer(
@@ -112,4 +113,5 @@ if __name__ == '__main__':
     train_dataset, _, _, tokenizer = prepare_data(model_name, train_texts, train_labels)
     trainer = prepare_fine_tuning(model_name, tokenizer, train_dataset)
     trainer.train()
-    trainer.save_model('//Users/akanksha/PycharmProjects/text-summarisation-final/model')
+    trainer.push_to_hub()
+    # trainer.save_model('//Users/akanksha/PycharmProjects/text-summarisation-final/model')

@@ -6,6 +6,7 @@ import extractive_summary as es
 import abstractive_summaries as ase
 from rouge_score import rouge_scorer
 
+CUSTOM_MODEL_NAME = 'arawat/pegasus-custom-xsum'
 
 def score_summary(summary1, summary2):
     scorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
@@ -15,7 +16,7 @@ def score_summary(summary1, summary2):
 def best_summary(document):
     extractive = es.generate_summary(document, 2)
     abstractives = ase.generate_summaries(document)
-
+    abstractives.append(ase.generate_summary_custom_model(document,CUSTOM_MODEL_NAME))
     score_board = {}
     best_score = {"score" : 0, "summary" : "", "model_name": ""}
     for model_name in abstractives:
