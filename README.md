@@ -1,3 +1,10 @@
+# Explore Text Summarization 
+
+[Project Writeup](https://github.com/akanksha0911/text-summarisation-webapp/blob/main/docs/Project_%20Speech_Text%20to%20Text%20Summarization.pdf)
+
+[Project Presentation Slides](https://github.com/akanksha0911/text-summarisation-webapp/blob/main/docs/PPT-Text%20Summarization.pdf)
+
+
 ![Text-Summarization](https://github.com/akanksha0911/text-summarisation-webapp/blob/main/images/Text-Summarization.png)
 
 Description: It intends to provide concise, accurate, easy to read, and comprehensive summaries of lengthy audio files or text files that one can read within a few minutes.
@@ -52,3 +59,7 @@ To see just the best summary only
 ```shell
 tail -1 reports/msft.txt
 ```
+
+# Contributors
+akanksha0911 </br>
+Karishma-Kuria
